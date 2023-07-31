@@ -12,4 +12,4 @@ SmartInternz Dashboard Link: https://smartinternz.com/student-profile/feed/U0IyM
 
 Demo Video Link: https://drive.google.com/file/d/1rmtxT0V5Ndw215I4hydXZ567LnSAKSV3/view?usp=sharing
 
-Google Developer Profile Link: https://g.dev/aishBh
+Google Developer Profile Link: https://g.dev/aisheeBh
